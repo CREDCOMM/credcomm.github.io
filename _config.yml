@@ -9,56 +9,67 @@ description: "Better than real"
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: member 1
   pic: 1
-  position: Lead Designer
+  position: HW
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: stack-overflow
+    #   url: #
 
-- name: Larry Parker
+- name: member 2
   pic: 2
-  position: Lead Marketer
+  position: HW
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: linkedin
+    #   url: #
 
-- name: Diana Petersen
+- name: member 3
   pic: 3
-  position: Lead Developer
+  position: SW
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: google-plus
+    #   url: #
+
+- name: member 4
+  pic: 4
+  position: SW
+  social:
+    # - title: twitter
+    #   url: #
+    # - title: facebook
+    #   url: #
+    # - title: google-plus
+    #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  # - title: twitter
+  #   url: http://twitter.com/jekyllrb
+  # - title: facebook
+  #   url:
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: B/D#2, 1312, 98. Gasan digital 2-ro
+  - line: Geumcheon-gu, Seoul, Korea
 
 # Build settings
 markdown: kramdown
